@@ -1,5 +1,5 @@
 # Shooting-Game
-Simple shooting game.
+Shooting game.
 Single Player Game.
 Written in C++.
 Uses SFML Library for GUI.
